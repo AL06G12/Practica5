@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+#Principal{
+position: absolute;
+left: 0;
+top: 0;
+width: 100%;}
+
+#Pantalla{
+float: left;
+width: 100%;
+height: 25%;
+background: #99F;}
+
+#Teclado{
+float:left;
+width: 100%;
+height: 70%;
+background: #93F;}
+
+
+.nota{
+	float: left;
+	height: 90%;
+	position: relative;
+	outline: #000 solid 1px;
+	width: 14.28571425571429%;
+	background:#C0F;
+}
+.textonota{
+	position: relative;
+	top: 80%;
+	text-align:center;
+    font-size: 2em;
+	font-weight: bold;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.tocada{
+	color: #F9F;
+	background: #000;
+	outline: 1px solid #99F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
