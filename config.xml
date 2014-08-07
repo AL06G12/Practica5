@@ -13,7 +13,7 @@
         MI PRIMER PIANO CON SONIDOS BASICOS
     </description>
 
-    <preference name="phonegap-version" value="3.1.0" />
+    <preference name="orientation" value="landspace" />
 	
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         Marion Itzel Martinez Ortega
